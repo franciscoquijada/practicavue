@@ -1,4 +1,6 @@
-# djackets
+# Practice with vue
+
+#Project Store
 
 ## Project setup
 ```
